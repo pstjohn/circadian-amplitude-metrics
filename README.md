@@ -1,6 +1,5 @@
-These are the python source files used to generate the figures in the manuscript
-"Amplitude metrics for cellular circadian bioluminescence reporters" by Peter C.
-St. John et al, 2014. These files are provided in their raw state without
+These are the python source files used to generate the figures in the manuscript *P. C. St. John, S. R. Taylor, J. H. Abel, and F. J. Doyle, “Amplitude Metrics for Cellular Circadian Bioluminescence Reporters,” Biophys. J., vol. 107, no. 11, pp. 2712–2722, Dec. 2014.*
+These files are provided in their raw state without
 significant documentation in the hopes that they may prove useful for an
 interested reader.
 
