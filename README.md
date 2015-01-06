@@ -8,18 +8,19 @@ interested reader.
 PRE-REQUISITES
 ==============
 
-SOFTWARE   & VERSION & WEBSITE
-==============================
-python     & 2.7.3   & python.org
-numpy      & 1.6.1   & numpy.org
-scipy      & 0.13.3  & scipy.org
-matplotlib & 1.3.1   & matplotlib.org
-casadi     & 1.5.0   & casadi.org
-svg.path   & 1.1     & https://pypi.python.org/pypi/svg.path
+SOFTWARE   | VERSION | WEBSITE
+-----------|---------|--------
+python     | 2.7.3   | python.org
+numpy      | 1.6.1   | numpy.org
+scipy      | 0.13.3  | scipy.org
+matplotlib | 1.3.1   | matplotlib.org
+casadi     | 1.5.0   | casadi.org
+svg.path   | 1.1     | https://pypi.python.org/pypi/svg.path
 
 
 FILE DESCRIPTIONS
 =================
+```
 fig1.py                 : python code to generate figure 1
 fig2.py                 : python code to generate figure 2
 fig3.py                 : python code to generate figure 3
@@ -53,5 +54,5 @@ __init__.py : n/a
 degmodelFinal.py           : Model of PER/CRY feedback from Hirota et al, 2012
 simplified_tysonmodel.py   : Simple 2-state model of mRNA-protein oscillator
 simplified_tysonmodel_2.py : Modified version of previous model with exponent=2
-
+```
 
